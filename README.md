@@ -4,7 +4,7 @@
 
 - [ ] Makefile でプロジェクトのセットアップ
 - [ ] Flutter のテンプレートを作る
-- [ ] git[ ]hooks でコミット時にコード整形
+- [ ] git-hooks でコミット時にコード整形
 - [ ] renovate でライブラリーの更新（PR をまとめたりなど設定がdependabot より豊富）
 - [ ] dependabot でセキュリティアップデート
 - [ ] .editorconfig でエディターの設定を共有
