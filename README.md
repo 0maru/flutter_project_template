@@ -1,16 +1,17 @@
-# flutter_project_template
+# Flutter プロジェクトのテンプレート
 
-A new Flutter project.
+## やること
 
-## Getting Started
+- Makefile でプロジェクトのセットアップ
+- Flutter のテンプレートを作る
+- git-hooks でコミット時にコード整形
+- renovate でライブラリーの更新（PR をまとめたりなど設定がdependabot より豊富）
+- dependabot でセキュリティアップデート
+- .editorconfig でエディターの設定を共有
+- .gitattribute でbuild_runner のコードを折りたたむ
+- Melos　でビルドのコマンドを用意する
+- Grider　バージョン番号の更新などMelosでは手間なものを担当
 
-This project is a starting point for a Flutter application.
+## TODO
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [ ] masonを使ってテンプレートからプロジェクトを作成できるようにする
